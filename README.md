@@ -16,3 +16,16 @@
 <div id="head">2.aşama 2,3,4,8,7,9,5,15,6</div>
 <div id="head">3.aşama 2,3,4,5,7,9,8,15,6</div>
 <div id="head">4.aşama 2,3,4,5,6,9,8,15,7</div></div>
+
+
+#merge sort projesi
+<h3>Insertion Sort Projesi</h3>
+<div id="p"></div>
+<h5>1.soru aşamaları [16,21,11,8,12,22]</h5>
+<h6>[16,21,11]-[8,12,22]</h6>
+<h6>[16]-[21,11]-[8]-[12,22]</h6>
+<h6>[16]-[11,21]-[8]-[12,22]</h6>
+<h6>[11,16,21]-[8,12,22]</h6>
+<h6>[8,11,12,16,21,22]</h6>
+<h5>2.soru Big-O gösterimini:Worst Case:Time Complexity-O(n*log n)</h5>
+
