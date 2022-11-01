@@ -1,4 +1,4 @@
-#Insertion Sort Projesi
+#Insertion Sort Projesi and #merge sort projesi
 <h3>Insertion Sort Projesi</h3>
 <div id="p"></div>
 <h5>1.soru aşamaları [22,27,16,2,18,6]</h5>
